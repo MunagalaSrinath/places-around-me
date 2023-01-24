@@ -44,7 +44,8 @@ Include pictures and contents for your subpages and map them using urls and view
 ```
 
 ## Output:
-![imagemap](imagemap.png)
+![imagemap](https://user-images.githubusercontent.com/118678482/214361551-948bc7db-caca-40fa-ba4c-154cde7f53ea.png)
+
 
 ## Result:
 Thus a website is developed to display details about my school near my house.
